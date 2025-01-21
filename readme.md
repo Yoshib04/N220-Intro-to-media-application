@@ -2,16 +2,16 @@
 
 ### Websites vs Web Applications
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+Websites are more focused on information and informational content that is viewed on a webpage. They usually are on the simpler side with how a user can interact with it. Web apps are more focused on personalized experiences and are task focused.
 
 ### VS Code & Extensions
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+VS code is a coding program called visual studio in which we are able to code and write in diffrent coding languages. We can also add extensions to help increase the speed at which we complete code at.
 
 ### Version Control, Git, & GitHub
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+This is the way we post and submit our code. We use git and git commands to use the version control to be able to upload our code to github.
 
 ### Markdown & Documentation
 
-markdown is a formatting style of code which is used usually in readme.md files. The documentation allows for simple styling another text addons
+Markdown is a file which allows us to quickly display text and other info with simple css built into it. And Documentation allows us to use diffrent styles on our code.
